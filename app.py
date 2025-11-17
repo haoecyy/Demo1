@@ -1,1 +1,1 @@
-import streamit as st 
+import Streamit as st 
